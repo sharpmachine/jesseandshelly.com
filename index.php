@@ -31,7 +31,7 @@
 		<div id="goal-meter">
 
 			<div class="meter-wrapper">
-				<div class="meter" goal="6765" paid="4410"><span class="funded"> funded</span></div>
+				<div class="meter" goal="6765" paid="4765"><span class="funded"> funded</span></div>
 			</div>
 			<div class="end">GOAL<br>$6765</div>
 			<div style="clear: both;"><span class="paid">PAID<br>$</span><span class="remaining">REMAING<br>$</span></div>
