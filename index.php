@@ -31,16 +31,18 @@
 		<div id="goal-meter">
 
 			<div class="meter-wrapper">
-				<div class="meter" goal="6765" paid="6265"><span class="funded"> funded</span></div>
+				<div class="meter" goal="6765" paid="6765"><span class="funded"> funded</span></div>
 			</div>
 			<div class="end">GOAL<br>$6765</div>
 			<div style="clear: both;"><span class="paid">PAID<br>$</span><span class="remaining">REMAING<br>$</span></div>
 		</div>
-		
-		<div class="button"><h3>Show some love and <a href="https://www.ibssm.org/a/donate/secure-form?student_id=211091&target=tuition" class="donate">Give &raquo;</a></h3></div>
-		<p>*all donations processed by ibssm.org.  Donations are <strong>not</strong> tax deductible.</p>
-		<p>If you'd like to send a check email us at <a href="mailto:shellykade@gmail.com?subject=Where can I send a check?">shellykade@gmail.com</a></p>
-
+		<br \><br \><br \><br \>
+		<h3>We did it...together.  Thank you to all those who sowed into us!</h3>
+		<div style="display:none;">
+			<div class="button"><h3>Show some love and <a href="https://www.ibssm.org/a/donate/secure-form?student_id=211091&target=tuition" class="donate">Give &raquo;</a></h3></div>
+			<p>*all donations processed by ibssm.org.  Donations are <strong>not</strong> tax deductible.</p>
+			<p>If you'd like to send a check email us at <a href="mailto:shellykade@gmail.com?subject=Where can I send a check?">shellykade@gmail.com</a></p>
+		</div>
 	</div>
 	
 </div><!--end container-->
