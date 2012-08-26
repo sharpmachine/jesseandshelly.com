@@ -82,7 +82,7 @@ h1
 	color: #FFF;
 	text-align: center;
 	text-transform: lowercase;
-	padding-top: 50px;
+	line-height: 140px;
 }
 
 .fontface h1
@@ -116,6 +116,12 @@ h3
 	font-size: 1.1em;
 	margin-bottom: 1.2em;
 	font-weight: bold;
+}
+
+iframe
+{
+	margin: 0 auto 50px auto;
+	display: block;
 }
 
 /*.....................................the header*/
@@ -255,6 +261,12 @@ a.donate:focus
 	border: 2px solid #fff;
 	float: left;
 	width: 85%;
+	margin-bottom: 20px;
+}
+
+#button-yo
+{
+	padding-top: 10px;
 }
 
 .end

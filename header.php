@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<meta name="description" content="2nd Year will be twice as nice as first.  We're going back for more!" />
+<meta name="description" content="3rd Year's a Charm!" />
 <meta name="keywords" content="support, donate, giving, charity, gifts, ibethel, bill johnson, redding, bethel, jesse kade, shelly kade, jesse kuntz, michelle kuntz" />
 <title>Help Support Jesse &amp; Shelly</title>
 
