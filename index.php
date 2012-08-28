@@ -42,7 +42,7 @@
 		</div>
 		
 		<div id="button-yo">
-			<div class="button"><h3>Show some love and <a href="https://www.ibssm.org/a/donate/secure-form?student_id=211091&target=tuition" class="donate">Give &raquo;</a></h3></div>
+			<div class="button"><h3>Show some love and <a href="https://www.ibssm.org/a/donate/secure-form?student_id=211030&target=tuition" class="donate">Give &raquo;</a></h3></div>
 			<p>*all donations processed by ibssm.org.  Donations are <strong>not</strong> tax deductible.</p>
 			<p>If you'd like to send a check email us at <a href="mailto:shellykade@gmail.com?subject=Where can I send a check?">shellykade@gmail.com</a></p>
 		</div>
